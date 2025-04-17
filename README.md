@@ -1,1 +1,0 @@
-# Termax-setup
